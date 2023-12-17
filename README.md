@@ -6,7 +6,7 @@ Giovanni Francesco Comune and Gianluca Pandolfi's bachelor's thesis project
 
 Install with
 ```
-sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/Vanvitelli-Robotics/inverted-pendulum-control/master/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Vanvitelli-Robotics/inverted-pendulum-control/master/install.sh)"
 ```
 
 ## Pinout
